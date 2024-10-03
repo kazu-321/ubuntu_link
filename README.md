@@ -1,6 +1,12 @@
 # ubuntu_link
 ubuntu link matome
 
+# github ssh
+- [zenn](https://zenn.dev/v22uta/articles/038036c4b0c686)
+
+# Mbed Studio
+- [Mbed Studio](https://qiita.com/kzs321kzs/items/4c054abd2b4d53694e86)
+
 # GNOME EXTENSIONS
 
 - [Clipboard Indicator](https://extensions.gnome.org/extension/5721/clipboard-indicator/)
