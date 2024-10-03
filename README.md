@@ -9,6 +9,8 @@ ubuntu link matome
 
 # GNOME EXTENSIONS
 
+- [First](https://chatnoirlibre.com/ubuntu-22-04-lts-gnome-shell-extensions/)
+
 - [Clipboard Indicator](https://extensions.gnome.org/extension/5721/clipboard-indicator/)
 - [Coverflow Alt-Tab](https://extensions.gnome.org/extension/97/coverflow-alt-tab/)
 - [Dash to Panel](https://extensions.gnome.org/extension/1160/dash-to-panel/)
