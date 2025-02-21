@@ -19,3 +19,6 @@ ubuntu link matome
 - [Transparent Window Moving](https://extensions.gnome.org/extension/1446/transparent-window-moving/)
 - [Vitals](https://extensions.gnome.org/extension/1460/vitals/)
 - [GSConnect](https://extensions.gnome.org/extension/1319/gsconnect/)
+
+#  tweaks
+`sudo apt install gnome-tweaks`
