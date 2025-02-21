@@ -18,3 +18,4 @@ ubuntu link matome
 - [RebootToUEFI](https://extensions.gnome.org/extension/5105/reboottouefi/)
 - [Transparent Window Moving](https://extensions.gnome.org/extension/1446/transparent-window-moving/)
 - [Vitals](https://extensions.gnome.org/extension/1460/vitals/)
+- [GSConnect](https://extensions.gnome.org/extension/1319/gsconnect/)
